@@ -1,0 +1,20 @@
+"RowID","TestCaseID","Function_Name","Execution_Flag","TestDataSheetName","TestDataSheetRowNo","TC_ID"
+"1","BCHR017","CreateContractCustomer","YES","ContractCustomer","1",
+"2","BCHR023","CreateNewProfile","YES","CreateProfile","1",
+"3","BCHR052","ValidateAccountActivation","YES","AccountActivation","1",
+"4","BCHR054","ValidateBillConfirmation","YES","BillConfirmation","1",
+"5","BCHR055","ValidatePaymentConfirmation","YES","PaymentConfirmationAndRecon","1",
+"6","BCHR056","ValidateFullPaymentReconciliation","YES","FullPaymentReconciliation","1",
+"7","BCHR056","ValidateBatchOverPayment","YES","BatchOverPayment","1",
+"8","BCHR056","ValidateBatchPartialPayment","YES","BatchPartialPayment","1","ELMX-1277, ELMX-1283, ELMX-1284, ELMX-1291, ELMX-1278, ELMX-1279, ELMX-1280, ELMX-1281, ELMX-1282, ELMX-1285, ELMX-1286, ELMX-1292, ELMX-1293, ELMX-1294, ELMX-1295, ELMX-1296, ELMX-1297, ELMX-1298, ELMX-1299, ELMX-1300"
+"9","BCHR056","ValidatePartialPaymentReconciliation","YES","PartialPaymentReconciliation","1","ELMX-1277, ELMX-1283, ELMX-1284, ELMX-1291, ELMX-1278, ELMX-1279, ELMX-1280, ELMX-1281, ELMX-1282, ELMX-1285, ELMX-1286, ELMX-1292, ELMX-1293, ELMX-1294, ELMX-1295, ELMX-1296, ELMX-1297, ELMX-1298, ELMX-1299, ELMX-1300"
+"10","BCHR057","ValidateOverPaymentReconciliation","YES","OverPaymentReconciliation","1","ELMX-1287, ELMX-1288, ELMX-1278, ELMX-1279, ELMX-1280, ELMX-1281, ELMX-1282, ELMX-1285, ELMX-1286, ELMX-1292, ELMX-1293, ELMX-1294, ELMX-1295, ELMX-1296, ELMX-1297, ELMX-1298, ELMX-1299, ELMX-1300"
+"11","BCHR058","ValidateCashFullPaymentforBatchSadInv","YES","CashFullPaymentforBatchSadInv","1","ELMX-1289, ELMX-1290, ELMX-1278, ELMX-1279, ELMX-1280, ELMX-1281, ELMX-1282, ELMX-1285, ELMX-1286, ELMX-1292, ELMX-1293, ELMX-1294, ELMX-1295, ELMX-1296, ELMX-1297, ELMX-1298, ELMX-1299, ELMX-1300"
+"12","BCHR059","ValidateCashPartialPaymentforBatchSadInv","YES","CashFullPaymentforBatchSadInv","1","ELMX-1289, ELMX-1290, ELMX-1278, ELMX-1279, ELMX-1280, ELMX-1281, ELMX-1282, ELMX-1285, ELMX-1286, ELMX-1292, ELMX-1293, ELMX-1294, ELMX-1295, ELMX-1296, ELMX-1297, ELMX-1298, ELMX-1299, ELMX-1300"
+"13","BCHR060","ValidateCashOverPaymentforBatchSadInv","YES","CashFullPaymentforBatchSadInv","1",
+"14","BCHR061","ValidateCashFullPaymentforBatchInv","YES","CashFullPaymentforBatchSadInv","2",
+"15","BCHR062","ValidateCashPartialPaymentforBatchInv","YES","CashFullPaymentforBatchSadInv","2",
+"16","BCHR063","ValidateCashOverPaymentforBatchInv","YES","CashFullPaymentforBatchSadInv","2",
+"17","BCHR064",,,,,
+"18","BCHR065",,,,,
+"19","BCHR066",,,,,

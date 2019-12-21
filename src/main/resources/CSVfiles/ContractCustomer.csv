@@ -1,0 +1,5 @@
+"RowID","PackageCode","Type","BillerCode","CustomerUniqueNumber","CustomerType","CustomerActivityStatus","ContactUniqueNumber1","ContactUniqueNumber2","ContactUniqueNumber3","ExpectedResult"
+"1","EJAR100","1","153","2147483647","1","1","2147483647","2147483647","2147483647","Success"
+"2","EJAR100","1","153","2147483647","1","1","2147483647","2147483647","2147483647","Success"
+"3","EJAR100","1","153","2147483647","1","2","2147483647","2147483647","2147483647","Success"
+"4","EJAR100","1","153","2147483647","1","1","2147483647","2147483647","2147483647","Success"
